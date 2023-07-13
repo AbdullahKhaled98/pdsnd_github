@@ -4,6 +4,10 @@
 * This project uses the skills learned in Udacity classrom to creat a pyhton program that can explore data related to bike share systems for three major cities in the United States - Chicago, New York City, and Washington.
 * This project amis to compute a variety of descriptive statistics about data related to bike share systems.
 
+# Known bugs
+
+* No bugs yet discoverd.
+
 # Date created
 
 * 2023-06-14.
