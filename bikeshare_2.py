@@ -19,7 +19,7 @@ def get_filters():
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     cities = ['chicago','new york', 'washington']
     while True :
-        city = input('What city would you like to chosse ? ').lower()
+        city = input('Please choose a city you like to filter on. ').lower()
         if city not in cities :
             print('Invalid city, try again.')
         else :
@@ -29,9 +29,9 @@ def get_filters():
     # get user input for month (all, january, february, ... , june)
     months_list = ['january', 'february', 'march', 'april', 'may', 'june', 'all']
     while True :
-        month = input('Please choose a month you like to filter on or chosse all. ').lower()
+        month = input('Please choose a month you like to filter on or you can chosse all. ').lower()
         if month not in months_list :
-            print('Invalid month, try again.')
+            print('Invalid month, Please try again.')
         else :
             break
 
@@ -39,9 +39,9 @@ def get_filters():
     ddays_list = ['saturday','sunday', 'monday', 'tuesday','wednesday', 'thursday', 'friday','all' ]
     while True :
         days_list = ['saturday','sunday','monday','tuesday','wednesday','thursday','friday']
-        day = input('Please chosse a day or all. ').lower()
+        day = input('Please chosse a day you like to filter on or you can chosse all. ').lower()
         if day not in days_list :
-            print('Invalid day, try again.')
+            print('Invalid day, Please try again.')
         else :
             break
     print('-'*40)
