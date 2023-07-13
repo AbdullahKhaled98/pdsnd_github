@@ -1,17 +1,22 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Abstract 
 
-### Date created
-Include the date you created this project and README file.
+* This project was made as a part of **Udacity Programming for Data Science with python Nanodegree** program.
+* This project uses the skills learned in Udacity classrom to creat a pyhton program that can explore data related to bike share systems for three major cities in the United States - Chicago, New York City, and Washington.
+* This project amis to compute a variety of descriptive statistics about data related to bike share systems.
 
-### Project Title
-Replace the Project Title
+# Date created
 
-### Description
-Describe what your project is about and what it does
+* 2023-06-14.
 
-### Files used
-Include the files used
+# Project Title
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+* Explore US Bikeshare Data.
+
+# Files used
+
+* Chicago, New York City, and Washington data CSVs.
+
+# Credits
+
+* All thanks to god and after that my tutors (Abdalla & Diego).
 
