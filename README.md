@@ -8,6 +8,10 @@
 
 * No bugs yet discoverd.
 
+# Contributing 
+
+* Only udacity good coding practices are allowed when Contributing.
+
 # Date created
 
 * 2023-06-14.
