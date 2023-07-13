@@ -31,7 +31,7 @@ def get_filters():
     while True :
         month = input('Please choose a month you like to filter on or you can chosse all. ').lower()
         if month not in months_list :
-            print('Invalid month, try again.')
+            print('Invalid month, Please try again.')
         else :
             break
 
@@ -41,7 +41,7 @@ def get_filters():
         days_list = ['saturday','sunday','monday','tuesday','wednesday','thursday','friday']
         day = input('Please chosse a day you like to filter on or you can chosse all. ').lower()
         if day not in days_list :
-            print('Invalid day, try again.')
+            print('Invalid day, Please try again.')
         else :
             break
     print('-'*40)
